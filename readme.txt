@@ -15,10 +15,10 @@ a widget in the sidebar on your Wordpress 2.2+ blog OR embedded into any HTML pa
 
 Full styling and configuration options are available.
 
-    * Configure the number of items (posts and comments) and the method of selecting the items (alphabetically, newest, oldest or random) displayed.
-    * Latest Posts: Show post title, date and author and an excerpt of the post content.
-    * Latest Comments: Show comment date, author and excerpt of the comment.
-    * Styling: allow your site’s styles to cascade or define inline styles in your admin options.
+>>Configure the number of items (posts and comments) and the method of selecting the items (alphabetically, newest, oldest or random) displayed.
+>>Latest Posts: Show post title, date and author and an excerpt of the post content.
+>>Latest Comments: Show comment date, author and excerpt of the comment.
+>>Styling: allow your site’s styles to cascade or define inline styles in your admin options.
 
 == Installation ==
 
